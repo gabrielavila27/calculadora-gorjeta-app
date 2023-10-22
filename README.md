@@ -12,7 +12,7 @@
 * <a href="src/ReadmeSrc/calc_gorjeta_demo.mp4">Download a demo video of the app here</a>
 
 ## Tecnologias (Technologies)💻
-* React Native (JSX, StyleSheet, JavaScript)
+* React Native (Expo-cli)
 
 ## Contato (Contact me)🔗
 * Email: gabriel.avilaa27@gmail.com
